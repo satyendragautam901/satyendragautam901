@@ -3,7 +3,7 @@
 🚀 A Computer Science graduate & Software Developer  
 🧠 I love working on scalable systems and full-stack apps  
 💬 I talk about JavaScript, Python, React, Django, C++, and System Design  
-🌱 Currently learning: Advanced System Design & Low-Level Design
+🌱 Currently learning: System Design & DSA
 
 ---
 
