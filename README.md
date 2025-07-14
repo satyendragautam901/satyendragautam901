@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Satyendra Gautam
+![Profile Views](https://komarev.com/ghpvc/?username=satyendragautam&color=blue)
 
 I'm a passionate **Frontend Developer** with expertise in **React**, backed by strong skills in **C++**, **Django**, and **MySQL**. I love building interactive, scalable, and high-performance web applications. Apart from development, I enjoy diving deep into core computer science topics like **Operating Systems**, **DBMS**, and **Computer Networks** to strengthen my foundations.
 
