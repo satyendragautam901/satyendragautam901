@@ -54,7 +54,7 @@ I'm a passionate **Frontend Developer** with expertise in **React**, backed by s
 ## 🌱 Hobbies & Interests
 
 - 📚 Learning new technologies every day  
-- 🧩 Solving DSA problems on platforms like LeetCode & Codeforces  
+- 🧩 Solving DSA problems on platforms like LeetCode & GeeksforGeeks  
 - 📖 Studying core CS concepts like OS, DBMS, CN, etc.  
 - 🧠 Writing and sharing tech notes & tutorials  
 
