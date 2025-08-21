@@ -60,10 +60,13 @@ I'm a passionate **Frontend Developer** with expertise in **React**, backed by s
 
 ---
 
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satyendra-gautam-525220244)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:satyendragautamm623@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:satyendragautamm623@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/7ASC25wty7/)
+
 
 ---
 
