@@ -18,7 +18,7 @@ I'm a passionate **Frontend Developer** with expertise in **React**, backed by s
 
 - 🎓 A Computer Science graduate & Software Developer  
 - 🧠 Passionate about building scalable systems and full-stack applications  
-- 💬 I talk about JavaScript, Python, React, Django, C++, and System Design  
+- 💬 I talk about Python, Django, C++, and System Design  
 - 🌱 Currently exploring: System Design, DSA & Scalable Architectures  
 
 ---
@@ -53,7 +53,7 @@ I'm a passionate **Frontend Developer** with expertise in **React**, backed by s
 
 ## 🌱 Hobbies & Interests
 
-- 📚 Learning new technologies every day  
+- 📚 Learning new concept every day  
 - 🧩 Solving DSA problems on platforms like LeetCode & GeeksforGeeks  
 - 📖 Studying core CS concepts like OS, DBMS, CN, etc.  
 - 🧠 Writing and sharing tech notes & tutorials  
