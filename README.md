@@ -26,7 +26,6 @@ I'm a passionate **Frontend Developer** with expertise in **React**, backed by s
 ## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
